@@ -16,5 +16,5 @@ HTML 起手应该写什么
  strong 是加粗
   em 是倾斜
   code 是设置字体等宽
-  pre是 格式化内容
+  pre是 预定义格式文本
   
