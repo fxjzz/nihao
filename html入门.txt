@@ -1,0 +1,20 @@
+HTML 是谁发明的
+HTML 起手应该写什么
+常用的表章节的标签有哪些，分别是什么意思（h1~h6、section、article、main、aside 等等）
+全局属性有哪些
+常用的内容标签有哪些，分别是什么意思（a、strong、em、code、pre 等等）
+ 
+ html 是李爵士发明的
+ 起手 写一个 ！
+ h1 标题 ~6 逐渐减小字体
+ section  是章节
+ articl 是文章
+ main  是主体部分
+ aside  侧体部分
+ 全局属性有  class  id  style  hidden  contenteditable tabindex title 
+ a 是超链接
+ strong 是加粗
+  em 是倾斜
+  code 是设置字体等宽
+  pre是 格式化内容
+  
