@@ -11,3 +11,11 @@ for(let i=0;i<6;i++){
 ```
 * 把i定义成局部变量 这样每一次的for循环都会创建一个独立的i的定时器 
 
+```
+let i = 0
+for (i = 0; i<6; i++){    
+    setTimeout((i) =>{
+        console.log(i)
+    },0,i)
+}
+```
